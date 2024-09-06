@@ -1,0 +1,56 @@
+.menu-card{
+    background-color: white;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: -5px 5px 20px 1px #172c66;
+    border: 0.5px  solid #808080;
+}
+
+
+.menu-card:hover{
+   box-shadow:-5px 5px 10px 1px #000000;
+   cursor: pointer;
+}
+.menu-icon{
+    height: 100px;
+    display: block;
+    margin: 10px auto;
+}
+
+.menu-title{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.menu-discription{
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.menu-order-btn{
+    background-color: #92033a;
+    color:#fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5pxpx 10px;
+    display: block;
+    margin: 5px auto;
+}
+
+.menu-order-btn{
+    background-color:rgb(170, 84, 170);
+    transition:0.5s;
+    cursor: pointer;
+    border-radius: 20px 0 20px 0;
+    padding: 5px 10px;
+    border: 2px solid rgb(141, 25, 25);
+}
+
+.menus-container{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap:wrap; 
+}

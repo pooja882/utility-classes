@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body{
+    background-color: #f7dcd8;
+    margin: 0;
+    padding: 0;
+}
+
+.dancing-script{
+    font-family:'dancing script',cursive;
+}
+
+.bg-light{
+    background-color:#fef6e4 ;
+}
+    
+.bg-primary{
+    background-color: #f582ae;
+}
+
+.bg-secondary{
+    background-color: #8bd3dd ;
+}
+
+.text-primary{
+    color:#a50844;
+}
+
+.text-secondary{
+    color:#8bd3dd;
+}
+
+.text-dark{
+    color:#001858;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn{
+padding: 10px 30px;
+border-radius: 50px;
+border: none;
+cursor: pointer;
+box-shadow: 0 5px 15px #f3d2c1;
+color: #001858;
+}
+
+.btn-primary{
+    background-color: #46031c;  
+}
+
+.btn-secondary{
+    background-color: #8bd3dd;  
+}
+
+.no-underline{
+    text-decoration: none;
+}
+
+.fs-50{
+    font-size: 50px;
+}
+

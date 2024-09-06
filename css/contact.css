@@ -1,0 +1,48 @@
+.text-center{
+    background-color: white;
+    color:rgb(224, 17, 52);
+}
+
+.title{
+    width: 200px;
+    height: 30px;
+    color: brown;
+    
+}
+
+.contact-icon{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 30px 30px;
+}
+
+.btn{
+    text-align: center;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+
+.cotact-title{
+    
+}
+
+.contact-icon{
+    background-color: white;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: -5px 5px 20px 1px #172c66;
+    border: 0.5px  solid #808080;
+}
+
+
+.contact-container{
+    
+    transition:0.5s;
+    cursor: pointer;
+    padding: 5px 10px;
+    width: 400px;   
+}
